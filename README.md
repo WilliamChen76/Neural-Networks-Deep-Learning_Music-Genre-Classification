@@ -19,8 +19,7 @@ Python codes				    | Include Python Notebook codes for: (1) Data preprocessing,
  feature fusion models, combining audio and lyrics representations through concatenation and
  joint learning, aiming to leverage complementary information between modalities.
  To better capture sequential and contextual dependencies within lyrics, we implemented
- sequence models, including BiLSTM, GRU and Transformer encoder architectures. Recog
-nizing the potential of pre-trained language models, we further fine-tuned BERT represen
+ sequence models, including BiLSTM, GRU and Transformer encoder architectures. Recognizing the potential of pre-trained language models, we further fine-tuned BERT represen
 tations of lyrics, and combined them with ensemble methods such as Random Forest and
  MLP classifiers.
  Through this stepwise exploration, we aim to systematically assess the impact of different
